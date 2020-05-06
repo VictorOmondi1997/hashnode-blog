@@ -182,7 +182,7 @@ class(is_teanager)
 
 * [Moringa School Data Science Full-Time Course](https://moringaschool.com/programs/data-science-course/)
 * [Data Camp Data Science](https://www.datacamp.com/)
-*[Data Quest](https://dataquest.io)
+* [Data Quest](https://dataquest.io)
 
 And that marks the end of this article, keep an eye for more R articles as I cover more of R programming language to get you started in Data Science with R. Have any question? Ask Me on Twitter:
 
